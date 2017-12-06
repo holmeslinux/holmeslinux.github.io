@@ -16,15 +16,19 @@ permalink: /jwm/
 * Theme Designer Graphics; Testing User; Administrator Forum: Beto
 * Testing User; Moderator Forum: overlock
 
-### Versão estável (17.04)
+### Versão estável (17.09)
 
-* [kibojoe 17.04 Portela - 64bit](http://kibojoe.org/download.html) `MD5SUM: 48d949a110ff4f5208246ccb8202ced1`
+* [kibojoe 17.09 MUG - 64bit](http://kibojoe.org/download.html) `MD5SUM: 427b8697ca08c9eee423d10bfc7a5ec5`
 
 ### Versão instável (17.09)
 
-* [kibojoe 17.09rc4 MUG - 64bit](http://kibojoe.org/download.html) `MD5SUM: 111ed385b5a7f8dd7f8bfd395222007a`
+* Sem informação
 
 ### Imagens
+
+* 17.09 (code 21217)
+
+<img src="http://www.auplod.com/u/oauldp9f6e5.png"> 
 
 * 17.04 (code 2717)
 
