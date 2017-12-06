@@ -8,31 +8,37 @@ permalink: /download/
 
 ## Kibojoe Linux
 
-* ### JWM 17.04 Portela (code 2717)
+* ### JWM 17.09 MUG (code 21217)
 
-<img src="http://www.auplod.com/u/udpoal99a7e.png">
+<img src="http://www.auplod.com/u/luodapa1017.png">
 
 Para baixar o Kibojoe é só clicar [aqui](http://kibojoe.org/download.html). 
 
 ## Manjaro Linux
 
-* ### XFCE 17.0.5 Gellivara
+* ### XFCE 17.0.6
 
 <img src="https://manjaro.org/wp-content/uploads/2017/03/xfce-170.png">
 
 Para baixar o Manjaro XFCE é só clicar [aqui](https://manjaro.org/get-manjaro/). 
 
-* ### KDE 17.0.5 Gellivara
+* ### KDE 17.0.6
 
 <img src="https://manjaro.org/wp-content/uploads/2017/03/kde-170.png">
 
 Para baixar o Manjaro KDE é só clicar [aqui](https://manjaro.org/get-manjaro/).
 
-* ### Gnome 17.0.5 Gellivara
+* ### Gnome 17.0.6
 
 <img src="http://www.auplod.com/u/dalpuo956d6.png">
 
 Para baixar o Manjaro Gnome é só clicar [aqui](https://manjaro.org/get-manjaro/).
+
+* ### Manjaro-Architect ISO
+
+<img src="https://manjaro.org/wp-content/uploads/2013/05/architect.png">
+
+Para baixar o Manjaro-Architect ISO é só clicar [aqui](https://manjaro.org/get-manjaro/).
 
 * ### Versões comunitárias
 
