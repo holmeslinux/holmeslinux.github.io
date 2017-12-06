@@ -5,7 +5,7 @@ title: Kibojoe Linux 17.09rc3 liberado
 
 <p style="text-align: justify;">Liberado a terceira versão candidata do Kibojoe Linux 17.09 (codename MUG).</p>
 
-<img src="http://kibojoe.org/img/img3.png">
+<img src="http://www.auplod.com/u/uadplo9becb.png">
 
 <img src="http://www.auplod.com/u/opadul9e032.png">
 
