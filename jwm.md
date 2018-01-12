@@ -20,9 +20,9 @@ permalink: /jwm/
 
 * [kibojoe 17.09 MUG - 64bit](http://kibojoe.org/download.html) `MD5SUM: 427b8697ca08c9eee423d10bfc7a5ec5`
 
-### Versão instável (sem informação)
+### Versão instável (18.02)
 
-* Sem informação
+* [kibojoe 18.02 Vai-Vai - 64bit](http://kibojoe.org/download.html) `MD5SUM: 9c83736f6ac90426f7797d750176f8d2`
 
 ### Imagens
 
