@@ -16,13 +16,13 @@ permalink: /jwm/
 * Theme Designer Graphics; Testing User; Administrator Forum: Beto
 * Testing User; Moderator Forum: overlock
 
-### Versão estável (17.09)
+### Versão estável (17.09final)
 
 * [kibojoe 17.09 MUG - 64bit](http://kibojoe.org/download.html) `MD5SUM: 427b8697ca08c9eee423d10bfc7a5ec5`
 
-### Versão instável (18.02)
+### Versão instável (18.02rc1)
 
-* [kibojoe 18.02 Vai-Vai - 64bit](http://kibojoe.org/download.html) `MD5SUM: 9c83736f6ac90426f7797d750176f8d2`
+* [kibojoe 18.02rc1 Vai-Vai - 64bit](http://kibojoe.org/download.html) `MD5SUM: 9c83736f6ac90426f7797d750176f8d2`
 
 ### Imagens
 
