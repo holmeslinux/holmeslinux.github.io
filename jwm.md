@@ -12,9 +12,9 @@ permalink: /jwm/
 
 ### Equipe
 
-* Maintainer; Theme Designer JWM; Documentation; Packager; Testing User; Web Developer; Administrator Forum, Moderator Forum; IRC Support: Holmes
-* Theme Designer Graphics; Testing User; Administrator Forum: Beto
-* Testing User; Moderator Forum: overlock
+* ☺ Holmes: Maintainer; Theme Designer JWM; Documentation; Packager; Testing User; Web Developer; Administrator Forum, Moderator Forum; IRC Support
+* ☺ Beto Theme Designer Graphics; Testing User; Administrator Forum
+* ☺ overlock: Testing User; Moderator Forum
 
 ### Versão estável (17.09final)
 
