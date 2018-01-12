@@ -10,7 +10,7 @@ permalink: /about/
 
 <p style="text-align: justify;">O que é Kibojoe Linux? <strong>Kibo</strong> é um dos três vulcões do Killimanjaro, a montanha mais alta da Tanzânia. Adotamos o nome <strong>joe</strong> de Joe Wingbermuehle, criador e mantenedor do Joe's Window Manager (JWM). Então, dando créditos ao Manjaro Linux e Joe, combinamos o nome e ficou Kibojoe. O logotipo representa a união do Manjaro com o JWM: i) o vulcão (cor verde, que representa o Manjaro) e ii) a letra j representa o interior do vulcão e a nuvem sobre ele (cor azul, que representa o JWM). O Kibojoe é um re-spin fácil, rápido, elegante e poderoso. É eficiente, estável, moderno, confiável e um sistema operacional GNU/Linux user-friendly. Kibojoe é configurado e otimizado para que ele possa facilmente executar as nossas atividades do dia-a-dia. Incorpora a filosofia KISS, é rolling-release e compatível com todos os benefícios do Manjaro Linux e ArchLinux. Criado com "manjaro-tools" e sempre mantido colaborativamente.</p>
 
-Desfrute da liberdade, use e abuse!
+Mínimo, rápido e elegante!
 
 ------
 
