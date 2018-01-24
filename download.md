@@ -16,19 +16,19 @@ Para baixar o Kibojoe é só clicar [aqui](http://kibojoe.org/download.html).
 
 ## Manjaro Linux
 
-* ### XFCE 17.1.1
+* ### XFCE 17.1.2
 
 <img src="https://manjaro.org/wp-content/uploads/2017/03/xfce-170.png">
 
 Para baixar o Manjaro XFCE é só clicar [aqui](https://manjaro.org/get-manjaro/). 
 
-* ### KDE 17.1.1
+* ### KDE 17.1.2
 
 <img src="https://manjaro.org/wp-content/uploads/2017/03/kde-170.png">
 
 Para baixar o Manjaro KDE é só clicar [aqui](https://manjaro.org/get-manjaro/).
 
-* ### Gnome 17.1.1
+* ### Gnome 17.1.2
 
 <img src="http://www.auplod.com/u/dalpuo956d6.png">
 
