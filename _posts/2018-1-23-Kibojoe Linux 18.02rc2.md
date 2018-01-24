@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kibojoe Linux 18.02rc3 liberado 
+title: Kibojoe Linux 18.02rc2 liberado 
 ---
 
 <p style="text-align: justify;">Liberado a segunda versão candidata do Kibojoe Linux 18.02 (codename Vai-Vai).</p>
