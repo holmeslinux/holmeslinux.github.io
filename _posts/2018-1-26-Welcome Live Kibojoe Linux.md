@@ -7,7 +7,7 @@ title: Welcome Live Kibojoe Linux
 
 <img src="http://www.auplod.com/u/pdaolua399a.png">
 
-<p style="text-align: justify;">Nele tem umas informações básicas, como: i) o user e a senha do Live, ii) como acessar a rede por CLI (NMTUI), iii) o local do instalador Calamares, iv) ressalta que AUR, multimedia e printer não são instalados por padrão e v) a importância de ler o "User Orientation Guide".</p>
+<p style="text-align: justify;">Nele tem umas informações básicas, como: i) o user e a senha do Live, ii) o local do NMTUI para acessar a rede por CLI, iii) o local do instalador Calamares, iv) ressalta que AUR, multimedia e printer não são instalados por padrão e v) a importância de ler o "User Orientation Guide".</p>
 
 <p style="text-align: justify;">Vamos testar o Kibojoe Linux 18.02rc2, codename Vai-Vai?</p>
 
